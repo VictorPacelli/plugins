@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id=" com.outsystems.secondplugin" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://apache.org/cordova/ns/android">
+    <name>secondPlugin</name>
+    <description>Desenolvendo funcionalidade de plugin pela primeira vez.</description>
+    <author>Victor Pacelli &lt;victorapfa@gmail.com&gt;</author>
+
+    </plugin>
