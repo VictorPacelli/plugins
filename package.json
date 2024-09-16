@@ -1,0 +1,19 @@
+{
+  "name": "secondPlugin",
+  "version": "1.0.0",
+  "description": "Primeiros testes com plugins Outsystems",
+  "author": "Victor Pacelli <victorapfa@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorPacelli/plugins.git"
+  },
+  "scripts": {
+    "build": "echo \"Build script\""
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "toast"
+  ],
+  "license": "Apache-2.0"
+}
